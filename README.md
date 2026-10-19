@@ -4,7 +4,7 @@ HTML, CSS ve JavaScript öğrenme sürecimde geliştirdiğim projelerin yer ald�
 
 ## 📂 Projeler
 
-* **[Kitap Sitem(./Kitap-Sitem)** - Temel HTML yapısıyla oluşturulmuş ilk web sitesi çalışmam.
+* **[Kitap Sitem(./Kitap-Sitesi/index.html)** - Temel HTML yapısıyla oluşturulmuş ilk web sitesi çalışmam.
 
 ## 🗺️ Yol Haritası
 
